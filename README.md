@@ -28,8 +28,12 @@
 
 
 
-## Repositórios importantes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanslucas77icons&theme=tokyonight)
+### Repositórios Importantes:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanslucas77&repo=TRABALHOS&theme=tokyonight)](https://github.com/hanslucas77/TRABALHOS)
+
+
+
 
 ## Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hans-090637182/)
@@ -44,5 +48,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslucas77icons&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslucas77&layout=compact&theme=tokyonight)
+
+
 
