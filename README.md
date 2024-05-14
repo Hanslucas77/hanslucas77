@@ -8,13 +8,9 @@
 - 🚀 Além disso, tenho paixão por repassar conhecimento e ajudar outras pessoas a crescerem em suas jornadas profissionais.
 - 📚 Sempre aberto a novas conexões e oportunidades de colaboração!
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanslucas77&show_icons&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## SKILLS
-
 ![JAVA](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -23,17 +19,8 @@
 ![Assembly](https://img.shields.io/badge/Assembly-008000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-2D9CDB?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-
-
-
-
-
 ### Repositórios Importantes:
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanslucas77&repo=TRABALHOS&theme=tokyonight)](https://github.com/hanslucas77/TRABALHOS)
-
-
-
 
 ## Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hans-090637182/)
@@ -43,12 +30,5 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551997166977)
 [![Email](https://img.shields.io/badge/Email-lucashansalves77%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashansalves77@gmail.com)
 
-
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanslucas77&layout=compact&theme=tokyonight)
-
-
 
